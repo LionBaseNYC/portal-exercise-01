@@ -62,7 +62,7 @@ filelock==2.0.12
 findspark==1.3.0
 Fiona==1.8.6
 fix-yahoo-finance==0.0.22
-Flask==0.12.2
+Flask==1.0
 Flask-Cors==3.0.3
 folium==0.6.0
 funcy==1.11
